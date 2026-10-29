@@ -1,10 +1,5 @@
 # Stakeholder und Systemkontext — Terminplaner für die THM
 
-<!-- Aufgabe 1 des Übungsblatts. Ersetzen Sie die Platzhalter … und fügen
-     Sie so viele Zeilen hinzu, wie Sie benötigen. Löschen Sie die
-     Kommentare, sobald Sie fertig sind. -->
-
-
 
 ## Stakeholder
 
@@ -21,8 +16,7 @@
 
 ## Systemkontext
 
-<!-- Mindestens fünf Aspekte. Art: Person, System im Betrieb, Prozess,
-     Ereignis oder Dokument. -->
+
 
 | Aspekt | Art | Warum gehört er zum Kontext? |
 |---|---|---|
@@ -36,8 +30,5 @@
 
 ## Irrelevante Umgebung
 
-<!-- Zwei Dinge, welche es an der THM gibt, die für den Terminplaner jedoch
-     keine Rolle spielen, je mit einer kurzen Begründung. -->
-
-- … — …
-- … — …
+Mensa-Angebot und Öffnungszeiten der Cafeterien — reine Verpflegungsinfrastruktur; sie beeinflussen weder Terminfindung noch Verfügbarkeit von Räumen oder Personen.
+Semesterbeitrag und Sozialausgaben (z. B. Semesterticket)  — administrativer/studenten­finanzieller Aspekt ohne Bezug zur Terminvergabe; für das System sind nur Kalender-, Raum- und Teilnehmerdaten relevant.
